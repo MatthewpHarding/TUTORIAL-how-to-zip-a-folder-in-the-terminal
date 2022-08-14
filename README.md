@@ -30,7 +30,8 @@ zip -r -e output-file.zip folder-name
 Enter the password and press enter.
 You will be prompted to re-enter your password and press enter. 
 
-## Merge `-r` With `-e`
+
+## Merge -r With -e
 **Open the Terminal** with the directory set to the *parent folder* of the folder needing to be zipped
 
 ```
@@ -38,9 +39,25 @@ zip -re output-file.zip folder-name
 ```
 🥳 It works! 
 
-##Why Is This Useful?
-2. Macbooks are missing this functionality to easily add a password to your .zip files.
-3. Developers should think about security on a daily basis. 😎🔐
+
+## Why Is This Useful?
+1. Macbooks are missing this functionality to easily add a password to your .zip files.
+2. Developers should think about security on a daily basis. 😎🔐
+3. Most professionals are able to use the basics of the Terminal.
+
+
+## Fin
+That's the end of this tutorial.
+
+- 🔍 We made the **official Swift documentation** [searchable!](https://github.com/MatthewpHarding?tab=repositories). 
+- 🕊 All official documentation begins with `SWIFTDOCS`. 
+- 🧑‍🏫 All tutorials begin with `TUTORIAL`.
+- 🕵️‍♂️ all content is searchable. Click [here](https://github.com/MatthewpHarding?tab=repositories).
+
+Try our free mini-course:
+👉 [A Guided Tour of Swift](https://github.com/MatthewpHarding/a-tour-of-swift) 
+
+
 
 
 # 🤷🏼‍♂️
