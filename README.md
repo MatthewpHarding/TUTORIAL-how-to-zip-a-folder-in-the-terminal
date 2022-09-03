@@ -1,44 +1,42 @@
 # Password Protected .zip Files
-*The solution*
+
+👇 The solution.
 
 ```
 zip -re output-file.zip folder-name
 ```
 
 
-## Zip A Folder
-**Open the Terminal** with the directory set to the *parent folder* of the folder needing to be zipped
+## How to Zip a Folder
+1. Open the Terminal.
+2. Change directory to the *parent folder* of the folder to be zipped.
+3. Enter the following command.
 
 ```
 zip -r output-file.zip folder-name
 ```
-👉 Note: **Always** include `-r`. It means *recursively* include all files and sub folders. 
+>Note
+>
+>`-r` *recursively* includes all files and sub folders. 
+>
+>output-file.zip = name of the .zip file.
+>
+>folder-name = target folder to compress.
 
-*output-file.zip = name of the .zip file created.*
- 
- *folder-name = target folder name to zip.*
 
-
-## Zip A Folder + Password
-**Open the Terminal** with the directory set to the *parent folder* of the folder needing to be zipped
+## How to Zip a Folder with a Password
+Adding the `-e` parameter to the command encrypts the created .zip file like so:
 
 ```
 zip -r -e output-file.zip folder-name
 ```
-👉 Note: **Always** include `-e`. It means *encrypt* which sets the password
 
-Enter the password and press enter.
-You will be prompted to re-enter your password and press enter. 
-
-
-## Merge -r With -e
-**Open the Terminal** with the directory set to the *parent folder* of the folder needing to be zipped
+## Combining -r with -e
+Instead of writing `-r` and `-e` separately, we can combine them like so:
 
 ```
 zip -re output-file.zip folder-name
 ```
-🥳 It works! 
-
 
 ## Why Is This Useful?
 1. Macbooks are missing this functionality to easily add a password to your .zip files.
