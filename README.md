@@ -1,4 +1,4 @@
-# Password Protect .zip Files
+# Password Protected .zip Files
 *The solution*
 
 ```
