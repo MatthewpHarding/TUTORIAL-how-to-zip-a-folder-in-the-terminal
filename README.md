@@ -46,29 +46,25 @@ zip -re output-file.zip folder-name
 3. Most professionals are able to use the basics of the Terminal.
 
 
-## Fin
-That's the end of this tutorial.
+## The End
 
-- 🔍 We made the **official Swift documentation** [searchable!](https://github.com/MatthewpHarding?tab=repositories). 
-- 🕊 All official documentation begins with `SWIFTDOCS`. 
-- 🧑‍🏫 All tutorials begin with `TUTORIAL`.
-- 🕵️‍♂️ all content is searchable. Click [here](https://github.com/MatthewpHarding?tab=repositories).
+- 🔍 We made the **official Swift documentation** [searchable](https://github.com/MatthewpHarding?tab=repositories). 
 
-Try our free mini-course:
+- 🕊 All official documentation begins with `SWIFTDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS).
+
+- 🕊 All simplified documentation begins with `SIMPLDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SIMPLDOCS).
+
+- Try our free mini-course:
 👉 [A Guided Tour of Swift](https://github.com/MatthewpHarding/a-tour-of-swift) 
-
-
-
 
 # 🤷🏼‍♂️
 
-Thanks 
 
-for reading
 
-@[MatthewpHarding](https://github.com/MatthewpHarding)
+@[MatthewpHarding](https://github.com/MatthewpHarding) 🔗
 
-*written for the `Swift` community*
+
+Teaching the `Swift` programming language.
 
 ```Swift
 let myLife = [learning, coding, happiness] 
