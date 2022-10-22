@@ -1,6 +1,6 @@
-# Password Protected .zip Files
+# How to Zip a Folder in the Terminal
 
-👇 The solution.
+👇 The terminal command.
 
 ```
 zip -re output-file.zip folder-name
