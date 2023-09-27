@@ -42,27 +42,10 @@ zip -re output-file.zip folder-name
 1. Macbooks are missing this functionality to easily add a password to your .zip files.
 2. Developers should think about security on a daily basis. 😎🔐
 3. Most professionals are able to use the basics of the Terminal.
+   
+-------------------
 
-
-## The End
-
-- 🔍 We made the **official Swift documentation** [searchable](https://github.com/MatthewpHarding?tab=repositories). 
-
-- 🕊 All official documentation begins with `SWIFTDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS).
-
-- 🕊 All simplified documentation begins with `SIMPLDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SIMPLDOCS).
-
-- Try our free mini-course:
-👉 [A Guided Tour of Swift](https://github.com/MatthewpHarding/a-tour-of-swift) 
-
-# 🤷🏼‍♂️
-
-
-
-@[MatthewpHarding](https://github.com/MatthewpHarding) 🔗
-
-
-Teaching the `Swift` programming language.
+@ [MatthewpHarding](https://github.com/MatthewpHarding) 🔗
 
 ```Swift
 let myLife = [learning, coding, happiness] 
